@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+climate_history.db
+build/
+dist/
+*.spec
